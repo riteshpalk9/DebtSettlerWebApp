@@ -5,9 +5,6 @@ Welcome to **Debt Settler**, the ultimate solution to manage and settle debts wi
 ## **Overview** 🔍
 The **Debt Settler Web App** helps users manage their debts in an optimal way by reducing the number of transactions required to settle them. Using advanced **Graph** and **Heap** algorithms, the app calculates how debts can be minimized between multiple participants, ensuring a smooth and straightforward settlement process. 💡
 
-## **Screenshot** 📸
-Here’s a screenshot of the **Debt Settler Web App** in action:
-
 ### **Features** ✨
 - **Add Participants and Debts** 🧑‍🤝‍🧑💰: Easily add participants and specify their debts. Whether it's money owed or money to be received, enter it all with just a few clicks.
 - **Optimal Debt Settlement** 🔄: The app calculates the most efficient way to settle all debts, ensuring that participants settle with the fewest possible transactions.
@@ -20,6 +17,21 @@ Here’s a screenshot of the **Debt Settler Web App** in action:
 - **Algorithms:** Implements **Graph** (🔗) and **Heap** (🏋️) algorithms to optimize debt settlements and minimize transactions.
 - **Backend (Optional):** Built with **Node.js** (🌐) and **Express** (🚀) (if backend integration is required).
 - **Database (Optional):** For future integration with databases like **MongoDB** (💾) or **Firebase** (🔥) for persistent data storage.
+
+## **Screenshot** 📸
+Here’s a screenshot of the **Debt Settler Web App** in action:
+
+Landing Page
+
+![Landing Page of Web App SS](src/1.png)
+
+Computing Balances
+
+![Computing Balances SS](src/2.png)
+
+Settling Debt
+
+![Settling Debts SS](src/3.png)
 
 --------------------------------------------------------------------------------------------
 
