@@ -15,8 +15,7 @@ The **Debt Settler Web App** helps users manage their debts in an optimal way by
 ### **Tech Stack** 🛠️
 - **Frontend:** Built with **React** (⚛️), **HTML** (📄), **CSS** (🎨), and **JavaScript** (💻) to provide a sleek and interactive user experience.
 - **Algorithms:** Implements **Graph** (🔗) and **Heap** (🏋️) algorithms to optimize debt settlements and minimize transactions.
-- **Backend (Optional):** Built with **Node.js** (🌐) and **Express** (🚀) (if backend integration is required).
-- **Database (Optional):** For future integration with databases like **MongoDB** (💾) or **Firebase** (🔥) for persistent data storage.
+
 
 ## **Screenshot** 📸
 Here’s a screenshot of the **Debt Settler Web App** in action:
