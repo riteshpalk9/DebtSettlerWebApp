@@ -2,6 +2,9 @@
 
 Welcome to **Debt Settler**, the ultimate solution to manage and settle debts with ease! Whether you're splitting expenses with friends, managing group expenses, or settling debts within a family or team, this React-based web application makes it efficient and hassle-free. 😎
 
+## Live Demo
+Check out the live site: (https://debt-settler-web-app.vercel.app/)
+
 ## **Overview** 🔍
 The **Debt Settler Web App** helps users manage their debts in an optimal way by reducing the number of transactions required to settle them. Using advanced **Graph** and **Heap** algorithms, the app calculates how debts can be minimized between multiple participants, ensuring a smooth and straightforward settlement process. 💡
 
